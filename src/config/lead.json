@@ -1,7 +1,7 @@
 {
   "leadId": "PL-045",
   "businessName": "Health Care Hospital",
-  "nicheId": "all niches",
+  "nicheId": "handyman",
   "category": "Hospital",
   "phone": "03020006266",
   "whatsapp": "923020006266",
@@ -17,6 +17,6 @@
   "yearsExperience": 5,
   "workingHours": "Open today · Reply on WhatsApp fast",
   "taglineOverride": "",
-  "about": "Health Care Hospital provides trusted all niches services in Lahore.",
+  "about": "Health Care Hospital provides trusted handyman services in Lahore.",
   "urduSupport": true
 }
